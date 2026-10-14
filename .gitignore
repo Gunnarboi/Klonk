@@ -1,0 +1,7 @@
+# Target the __pycache__ directory anywhere in the project
+**/__pycache__/
+
+# Target any loose compiled bytecode files
+*.pyc
+*.pyo
+*.pyd
