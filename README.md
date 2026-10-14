@@ -4,6 +4,8 @@ Prepare yourself for the ultimate adrenaline-fueled tabletop showdown! **KLONK!*
 
 Are you ready to make some noise?
 
+![Gameplay Demo](assets/klonk_gameplay.gif)
+
 ## 🔥 Game Modes: Choose Your Battle
 
 * **1v1 Local Showdown:** Go head-to-head against your best friend (or worst enemy) in a relentless, fast-finger battle for local bragging rights.
