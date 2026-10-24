@@ -5,3 +5,7 @@
 *.pyc
 *.pyo
 *.pyd
+
+# Virtual environment directories
+venv/
+.venv/
