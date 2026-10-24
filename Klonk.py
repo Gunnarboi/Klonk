@@ -109,7 +109,7 @@ def start_game():
     ai_files = [
         f[:-3]
         for f in os.listdir(ai_folder)
-        if f.endswith(".py") and f not in ("__init__.py", "ai_base.py")
+        if f.endswith(".py") and f not in ("__init__.py", "ai_base.py", "my_ai.py")
     ]
 
     global ai_options
